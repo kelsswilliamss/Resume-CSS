@@ -1,0 +1,69 @@
+
+
+.container {
+   margin:0 auto; /* this will center the page */
+   width: 800px; /*  use your width here */
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #bab86c;
+   color: white;
+   text-align: center;
+}
+
+body {
+  background-image: url("marble.jpg");
+}
+
+ul.b {
+  	list-style-type: square;
+		}
+
+body { font-family: "helvetica", serif; 
+	   font-size: 16px ; }
+
+h1 { 
+	color: pink; 
+	font-family: 'Bree Serif', serif;
+	text-decoration: underline
+	}
+
+h2 {
+	color: pink; 
+	font-family: 'Bree Serif', serif;
+	}
+
+h3 {
+	color: #bab86c; 
+	font-family: 'Times New Roman', serif;
+	}
+
+body { font-family: 'Assistant', sans-serif; 
+	   font-size: 16px ; }
+
+
+/* unvisited link */
+a:link {
+  color: pink;
+}
+
+/* visited link */
+a:visited {
+  color: #bab86c;
+}
+
+
+body {
+    padding-bottom: 50px;
+}
+
+
+
+
+
+
+
